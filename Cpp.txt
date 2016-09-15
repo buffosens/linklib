@@ -1,0 +1,2 @@
+Why Copying an Object is a terrible thing to do?
+http://www.agiledeveloper.com/articles/cloning072002.htm
