@@ -35,5 +35,17 @@ Embedded C++
   * [Part 1](http://www.embedded.com/design/programming-languages-and-tools/4438660/3/Modern-C--in-embedded-systems---Part-1--Myth-and-Reality)
   * [Part 2](http://www.embedded.com/design/programming-languages-and-tools/4438679/Modern-C--embedded-systems---Part-2--Evaluating-C--?isCmsPreview=true)
 
+---
+
+Headers and Includes: Why and How
+  * http://www.cplusplus.com/forum/articles/10627/  
+
+---
+
+Coding Standards
+  * [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index/)
+  * [Joint Strike Fighter Air Vehicle C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf)
+  
+ ---
 
   
