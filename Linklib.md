@@ -1,7 +1,10 @@
-!1 C++ Guidelines
-    https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+# Linklib
 
-!2 Memory management
+1. [C++ Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+---
+
+2. Memory management
   * Why should C++ programmers minimize use of 'new'? (Stack vs. Heap)
     http://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new
   * Memory overview
@@ -9,7 +12,9 @@
   * Best way to free memory in C
     http://stackoverflow.com/questions/34651234/is-this-a-good-way-to-free-memory-in-c
 
-!3 Programming techniques
+---
+
+3. Programming techniques
   * When to use virtual destructors?
     http://stackoverflow.com/questions/461203/when-to-use-virtual-destructors
   * When can I use a forward declaration?
@@ -23,7 +28,9 @@
   * Why Copying an Object is a terrible thing to do?
     http://www.agiledeveloper.com/articles/cloning072002.htm
 
-!4 Embedded C++
+---
+
+4. Embedded C++
   * Part 1
     http://www.embedded.com/design/programming-languages-and-tools/4438660/3/Modern-C--in-embedded-systems---Part-1--Myth-and-Reality
   * Part 2
