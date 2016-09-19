@@ -1,7 +1,0 @@
-Memory Efficent Doubly Linked List:
-http://stackoverflow.com/questions/35841620/what-is-a-memory-efficient-doubly-linked-list-in-c
-Note: Doubly Linked List vs. XOR Linked List, Pros and Cons
-
-GCC Inline ASM Tutorial:
-http://locklessinc.com/articles/gcc_asm/
-
