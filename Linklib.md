@@ -46,6 +46,6 @@ Coding Standards
   * [High Integrity C++ Coding Standard](http://www.codingstandard.com/section/index/)
   * [Joint Strike Fighter Air Vehicle C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf)
   
- ---
+---
 
   
