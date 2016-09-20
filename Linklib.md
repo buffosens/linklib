@@ -12,7 +12,7 @@ Resource management
     http://stackoverflow.com/questions/5162580/what-happens-when-a-computer-program-runs
   * Best way to free memory in C  
     http://stackoverflow.com/questions/34651234/is-this-a-good-way-to-free-memory-in-c
-  * Optimization of Computer Programs in C
+  * Optimization of Computer Programs in C  
     http://leto.net/docs/C-optimization.php
 
 ---
@@ -29,12 +29,12 @@ Programming techniques
   * Determine size of array if passed to function  
     http://stackoverflow.com/questions/968001/determine-size-of-array-if-passed-to-function
   * Why Copying an Object is a terrible thing to do?  
-    http://www.agiledeveloper.com/articles/cloning072002.htm
-  * What is the difference between #include <filename> and #include “filename”?
+    http://www.agiledeveloper.com/articles/cloning072002.htm  
+  * What is the difference between #include <filename> and #include “filename”?  
     http://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename
-  * How can I know which parts in the code are never used?
+  * How can I know which parts in the code are never used?  
     http://stackoverflow.com/questions/4813947/how-can-i-know-which-parts-in-the-code-are-never-used
-  * What is the copy-and-swap idiom?
+  * What is the copy-and-swap idiom?  
     http://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom
 
 ---
@@ -57,5 +57,5 @@ Coding Standards
 ---
 
 Unit Tests
-  * One Assert Per Test
+  * One Assert Per Test  
     http://www.artima.com/weblogs/viewpost.jsp?thread=35578
