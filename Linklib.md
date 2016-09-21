@@ -14,6 +14,8 @@ Resource management
     http://stackoverflow.com/questions/34651234/is-this-a-good-way-to-free-memory-in-c
   * Optimization of Computer Programs in C  
     http://leto.net/docs/C-optimization.php
+  * About GCC printf optimization  
+    http://www.ciselant.de/projects/gcc_printf/gcc_printf.html
 
 ---
 
