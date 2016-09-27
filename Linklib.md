@@ -13,10 +13,10 @@ Resource management
   * Best way to free memory in C  
     http://stackoverflow.com/questions/34651234/is-this-a-good-way-to-free-memory-in-c
   * Optimization of Computer Programs in C  
-    http://leto.net/docs/C-optimization.phphttps://www.mikrocontroller.net/attachment/305626/Program.cs
+    http://leto.net/docs/C-optimization.php
   * About GCC printf optimization  
     http://www.ciselant.de/projects/gcc_printf/gcc_printf.html
-  * What is a Memory-Efficient Doubly Linked List in C?
+  * What is a Memory-Efficient Doubly Linked List in C?  
     http://stackoverflow.com/questions/35841620/what-is-a-memory-efficient-doubly-linked-list-in-c
 
 ---
