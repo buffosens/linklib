@@ -1,7 +1,10 @@
 # Linklib
 
-C++ Guidelines  
-  * https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+Overview
+  * C++ Guidelines  
+    https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+  * International Standard C
+    http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
 
 ---
 
