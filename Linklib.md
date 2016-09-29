@@ -18,6 +18,8 @@ Resource management
     http://www.ciselant.de/projects/gcc_printf/gcc_printf.html
   * What is a Memory-Efficient Doubly Linked List in C?  
     http://stackoverflow.com/questions/35841620/what-is-a-memory-efficient-doubly-linked-list-in-c
+  * Why does calling calloc in gdb not appear to zero out the memory?  
+    http://stackoverflow.com/questions/39760479/why-does-calling-calloc-in-gdb-not-appear-to-zero-out-the-memory#39761181
 
 ---
 
