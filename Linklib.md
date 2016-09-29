@@ -23,6 +23,8 @@ Resource management
     http://stackoverflow.com/questions/35841620/what-is-a-memory-efficient-doubly-linked-list-in-c
   * Why does calling calloc in gdb not appear to zero out the memory?  
     http://stackoverflow.com/questions/39760479/why-does-calling-calloc-in-gdb-not-appear-to-zero-out-the-memory#39761181
+  * Does the size of an int depend on the compiler and/or processor?  
+    http://stackoverflow.com/questions/2331751/does-the-size-of-an-int-depend-on-the-compiler-and-or-processor
 
 ---
 
@@ -72,5 +74,5 @@ Unit Tests
 ---
 
 Makefile
-  * How can I define #define in my Make files
+  * How can I define #define in my Make files  
     http://stackoverflow.com/questions/2136904/how-can-i-define-define-in-my-make-files
