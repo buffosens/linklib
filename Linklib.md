@@ -3,7 +3,7 @@
 Overview
   * C++ Guidelines  
     https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
-  * International Standard C
+  * International Standard C  
     http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
 
 ---
@@ -68,3 +68,9 @@ Coding Standards
 Unit Tests
   * One Assert Per Test  
     http://www.artima.com/weblogs/viewpost.jsp?thread=35578
+
+---
+
+Makefile
+  * How can I define #define in my Make files
+    http://stackoverflow.com/questions/2136904/how-can-i-define-define-in-my-make-files
