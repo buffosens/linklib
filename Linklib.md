@@ -25,6 +25,8 @@ Resource management
     http://stackoverflow.com/questions/39760479/why-does-calling-calloc-in-gdb-not-appear-to-zero-out-the-memory#39761181
   * Does the size of an int depend on the compiler and/or processor?  
     http://stackoverflow.com/questions/2331751/does-the-size-of-an-int-depend-on-the-compiler-and-or-processor
+  * Float precision
+    http://stackoverflow.com/questions/5098558/float-vs-double-precision
 
 ---
 
