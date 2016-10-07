@@ -27,6 +27,8 @@ Resource management
     http://stackoverflow.com/questions/2331751/does-the-size-of-an-int-depend-on-the-compiler-and-or-processor
   * Float precision  
     http://stackoverflow.com/questions/5098558/float-vs-double-precision
+  * Don't use printf  
+    http://embeddedgurus.com/stack-overflow/tag/printf/
 
 ---
 
