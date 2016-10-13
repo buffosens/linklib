@@ -86,3 +86,11 @@ Makefile
 Microstrips
   * Mikrowellentheorie  
    http://files.kooltek.net/hslu/mikrowellen.pdf
+   
+---
+
+Overview licenses for SW and HW
+  * Software  
+    http://choosealicense.com/licenses/
+  * Hardware  
+    http://www.ohwr.org/licenses
