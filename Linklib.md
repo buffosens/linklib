@@ -51,6 +51,8 @@ Programming techniques
     http://stackoverflow.com/questions/4813947/how-can-i-know-which-parts-in-the-code-are-never-used
   * What is the copy-and-swap idiom?  
     http://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom
+  * Matters Computational - Ideas, Algorithms, Source Code in C  
+    http://jjj.de/fxt/fxtbook.pdf
 
 ---
 
