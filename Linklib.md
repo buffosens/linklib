@@ -96,3 +96,9 @@ Overview licenses for SW and HW
     http://choosealicense.com/licenses/
   * Hardware  
     http://www.ohwr.org/licenses
+
+---
+
+History of Software
+  * Berühmt berüchtigte Softwarefehler Therac-25  
+    http://formal.iti.kit.edu/~beckert/teaching/Seminar-Softwarefehler-SS03/Ausarbeitungen/pfeifer.pdf
