@@ -60,7 +60,7 @@ Programming techniques
 
 Embdedded C vs C++
   * Embedded C++  
-    [Part 1](http://www.embedded.com/design/programming-languages-and-tools/4438660/3/Modern-C--in-embedded-systems---Part-1--Myth-and-Reality)
+    [Part 1](http://www.embedded.com/design/programming-languages-and-tools/4438660/3/Modern-C--in-embedded-systems---Part-1--Myth-and-Reality)  
     [Part 2](http://www.embedded.com/design/programming-languages-and-tools/4438679/Modern-C--embedded-systems---Part-2--Evaluating-C--?isCmsPreview=true)
   * Effektives C++ in Embedded Systems  
     http://aristeia.com/TalkNotes/C++_Embedded_Deutsch.pdf
