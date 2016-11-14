@@ -58,10 +58,31 @@ Programming techniques
 
 ---
 
-Embedded C++
-  * [Part 1](http://www.embedded.com/design/programming-languages-and-tools/4438660/3/Modern-C--in-embedded-systems---Part-1--Myth-and-Reality)
-  * [Part 2](http://www.embedded.com/design/programming-languages-and-tools/4438679/Modern-C--embedded-systems---Part-2--Evaluating-C--?isCmsPreview=true)
-
+Embdedded C vs C++
+  * Embedded C++  
+    [Part 1](http://www.embedded.com/design/programming-languages-and-tools/4438660/3/Modern-C--in-embedded-systems---Part-1--Myth-and-Reality)
+    [Part 2](http://www.embedded.com/design/programming-languages-and-tools/4438679/Modern-C--embedded-systems---Part-2--Evaluating-C--?isCmsPreview=true)
+  * Effektives C++ in Embedded Systems
+    http://aristeia.com/TalkNotes/C++_Embedded_Deutsch.pdf
+  * Constexpr - Generalized Constant Expressions in C++11
+    http://www.cprogramming.com/c++11/c++11-compile-time-processing-with-constexpr.html
+  * Scott Meyers presentations on code::dive
+    http://codedive.pl/pl/speaker/speaker/scott-meyers/year/2014/
+  * Bartosz Szurgot presentation on code::dive
+    http://codedive.pl/pl/speaker/speaker/bartosz-szurgot/year/2015/
+  * Practical Guide to Bare Metal C++
+    https://www.gitbook.com/book/arobenko/bare_metal_cpp/details
+  * The C++ Type System is your Friend
+    http://files.meetup.com/10475902/TypeSystemIsYourFriend_Oxford.pdf
+  
+  * Youtube Sources:
+  ** Objects? No Thanks!
+     https://www.youtube.com/watch?v=k8sRQMx2qUw
+  ** Meeting C++ Lightning Talks - Odin Holmes - Modern special function register abstraction
+     https://www.youtube.com/watch?v=AKAYc9ZFBhk
+  ** Understanding Compiler Optimization
+     https://www.youtube.com/watch?v=FnGCDLhaxKU
+  
 ---
 
 Headers and Includes: Why and How
