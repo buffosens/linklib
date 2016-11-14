@@ -74,6 +74,8 @@ Embdedded C vs C++
     https://www.gitbook.com/book/arobenko/bare_metal_cpp/details
   * The C++ Type System is your Friend  
     http://files.meetup.com/10475902/TypeSystemIsYourFriend_Oxford.pdf
+  * Exploiting Template-Metaprogramming for Highly Adaptable Device Drivers – a Case Study on CANARY an AVR CAN-Driver  
+    http://sbrc2010.inf.ufrgs.br/anais/data/pdf/wtr/st03_01_wtr.pdf
   
   * Youtube Sources:  
     * Objects? No Thanks!  
