@@ -7,6 +7,8 @@ Overview
     http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf
   * IEEE Standard 754 Floating Point Numbers  
     http://steve.hollasch.net/cgindex/coding/ieeefloat.html
+  * GNU Make  
+    https://www.chemie.fu-berlin.de/chemnet/use/info/make/make_toc.html 
 
 ---
 
@@ -76,7 +78,6 @@ Embdedded C vs C++
     http://files.meetup.com/10475902/TypeSystemIsYourFriend_Oxford.pdf
   * Exploiting Template-Metaprogramming for Highly Adaptable Device Drivers – a Case Study on CANARY an AVR CAN-Driver  
     http://sbrc2010.inf.ufrgs.br/anais/data/pdf/wtr/st03_01_wtr.pdf
-  
   * Youtube Sources:  
     * Objects? No Thanks!  
       https://www.youtube.com/watch?v=k8sRQMx2qUw
