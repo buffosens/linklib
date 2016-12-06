@@ -8,7 +8,7 @@ Overview
   * IEEE Standard 754 Floating Point Numbers  
     http://steve.hollasch.net/cgindex/coding/ieeefloat.html
   * GNU Make  
-    https://www.chemie.fu-berlin.de/chemnet/use/info/make/make_toc.html 
+    https://www.gnu.org/software/make/manual/make.pdf
 
 ---
 
