@@ -11,6 +11,12 @@ Overview
     https://www.gnu.org/software/make/manual/make.pdf
 
 ---
+  
+Forecasts
+  * Bjarne Stroustrup - Meeting C++ 2016 Keynote: What C++ is and what it will become  
+    https://isocpp.org/blog/2016/12/bjarne-stroustrup-meeting-cpp-2016-keynote-what-c-is-and-what-it-will-becom
+
+---
 
 Resource management
   * Why should C++ programmers minimize use of 'new'? (Stack vs. Heap)  
